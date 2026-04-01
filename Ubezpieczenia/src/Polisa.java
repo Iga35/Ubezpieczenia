@@ -21,7 +21,7 @@ public class Polisa {
         liczbaUtworzonychPolis++;
     }
     public double obliczSkladkeKoncowa(){
-        
+
     }
 
 
